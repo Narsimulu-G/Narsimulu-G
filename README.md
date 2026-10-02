@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there 👋<br><br>I'm Narsimulu, a Full Stack Developer who loves building AI-powered applications.<br><br>🛠 Tech Stack:<br>- Frontend: React.js, JavaScript, HTML, CSS<br>- Backend: Node.js, Python, FastAPI<br>- AI: LangChain, OpenAI API, Google Gemini<br>- Databases: MySQL, PostgreSQL, MongoDB, SQLite<br><br>🚀 Currently focused on:<br>- AI Agents & LLM Applications<br>- Full Stack Web Development<br>- Cloud Deployment & APIs<br><br>
+ Hi there 👋<br><br>I'm Narsimulu, a Full Stack Developer who loves building AI-powered applications.<br><br>🛠 Tech Stack:<br>- Frontend: React.js, JavaScript, HTML, CSS<br>- Backend: Node.js, Python, FastAPI<br>- AI: LangChain, OpenAI API, Google Gemini<br>- Databases: MySQL, PostgreSQL, MongoDB, SQLite<br><br>🚀 Currently focused on:<br>-Data Analytics & Data Analysis<br><br>-AI Agents & LLM Applications<br>- Full Stack Web Development<br>- Cloud Deployment & APIs<br><br>
 
 
 ## 🌐 Socials:
