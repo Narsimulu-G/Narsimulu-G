@@ -1,27 +1,68 @@
-# 💫 About Me:
- Hi there 👋<br><br>I'm Narsimulu, a Full Stack Developer who loves building AI-powered applications.<br><br>🛠 Tech Stack:<br>- Frontend: React.js, JavaScript, HTML, CSS<br>- Backend: Node.js, Python, FastAPI<br>- AI: LangChain, OpenAI API, Google Gemini<br>- Databases: MySQL, PostgreSQL, MongoDB, SQLite<br><br>🚀 Currently focused on:<br>-Data Analytics & Data Analysis<br><br>-AI Agents & LLM Applications<br>- Full Stack Web Development<br>- Cloud Deployment & APIs<br><br>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=narsimulu-g&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179933076%3Fu%3Dcefdfd2b67b86e17fb0073fe7c3d2f919ba60e66%26v%3D4" alt="narsimulu-g hero visual" />
+</p>
 
+<p align="center"><b>Narsimulu</b> · Frontend or full-stack engineer<br/><sub>🌟 Aspiring Web Developer &amp; AI Enthusiast | Fellow at NxtWave’s CCBP 4.0 Academy | Pursuing MCA in Artificial Intelligence at Guru Nanak University, Hyderabad.</sub></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/g-narsimulu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gnarsimulu.dev@gmail.com) 
+<p align="center"><a href="https://github.com/narsimulu-g">GitHub</a> · <a href="https://x.com/GNarasi53978565">X</a></p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Narsimulu-G&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Narsimulu-G&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Narsimulu-G&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Narsimulu-G&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=narsimulu-g&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179933076%3Fu%3Dcefdfd2b67b86e17fb0073fe7c3d2f919ba60e66%26v%3D4" alt="narsimulu-g projects visual" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- [Customer-Behavior-Analysis](https://github.com/Narsimulu-G/Customer-Behavior-Analysis) · ★ 1
+- [AI-Study-Assistant](https://github.com/Narsimulu-G/AI-Study-Assistant) · ★ 0
+- [AI-Automation-Assistant-n8n](https://github.com/Narsimulu-G/AI-Automation-Assistant-n8n) · ★ 0
+- [MicroSnap](https://github.com/Narsimulu-G/MicroSnap) · ★ 0
+- [tulas_nxtwave](https://github.com/Narsimulu-G/tulas_nxtwave) · ★ 0
+- [Ecommerce-Customer-RFM-Analytics](https://github.com/Narsimulu-G/Ecommerce-Customer-RFM-Analytics) · ★ 0 — End-to-end e-commerce customer behavior and RFM analytics project using Python, PostgreSQL, SQL, and
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Narsimulu-G&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</details>
 
----
-[![](https://komarev.com/ghpvc/?username=Narsimulu-G&icon=0&color=0)](https://visitcount.itsvg.in)
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=narsimulu-g&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179933076%3Fu%3Dcefdfd2b67b86e17fb0073fe7c3d2f919ba60e66%26v%3D4" alt="narsimulu-g stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>27</b> public repositories, <b>1</b> stars, <b>86</b> contributions in the last year, a longest streak of <b>4</b> days and <b>5</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=narsimulu-g&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179933076%3Fu%3Dcefdfd2b67b86e17fb0073fe7c3d2f919ba60e66%26v%3D4" alt="narsimulu-g stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=narsimulu-g&theme=neon" alt="narsimulu-g contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=narsimulu-g&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179933076%3Fu%3Dcefdfd2b67b86e17fb0073fe7c3d2f919ba60e66%26v%3D4" alt="narsimulu-g social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Narsimulu · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
