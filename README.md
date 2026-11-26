@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1a1b27&height=200&section=header&text=Narsimulu%20Gathpa&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Python%20Developer&descAlignY=58&descSize=16" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1a1b27&height=200&section=header&text=Narsimulu%20G&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Python%20Developer&descAlignY=58&descSize=16" width="100%" alt="Header banner" />
 
 <a href="https://github.com/Narsimulu-G">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=Building+GenAI+%26+LLM+applications;RAG+pipelines+%26+AI+agents;FastAPI+%7C+Python+%7C+n8n+automation;SQL+%7C+Power+BI+%7C+Data+Analytics;MCA+in+AI+%26+ML+%F0%9F%8E%93" alt="Typing animation" />
